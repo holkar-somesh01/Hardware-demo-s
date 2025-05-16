@@ -1,0 +1,164 @@
+{
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Quality Hardware Solutions for Every Project",
+    "subtitle": "Maharashtra's trusted wholesaler of brass, aluminum, sliding door, and plastic hardware.",
+    "established": "Established 2018",
+    "browseProducts": "Browse Products",
+    "contactUs": "Contact Us"
+  },
+  "products": {
+    "categories": {
+      "brass": {
+        "name": "Brass Hardware",
+        "description": "Premium quality brass handles, knobs, cabinet pulls, and decorative fixtures."
+      },
+      "aluminum": {
+        "name": "Aluminum Hardware",
+        "description": "Lightweight, durable aluminum components for various construction applications."
+      },
+      "slidingDoor": {
+        "name": "Sliding Door Hardware",
+        "description": "Complete solutions for sliding doors, including tracks, rollers, and handles."
+      },
+      "plastic": {
+        "name": "Plastic Hardware",
+        "description": "Cost-effective plastic fittings, accessories, and utility components."
+      }
+    },
+    "enquireNow": "Enquire Now",
+    "searchPlaceholder": "Search products..."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "address": "Shop 10/11, Anand Plaza, Amarpreet Chowk, Jalna Road, Chhatrapati Sambhaji Nagar, Maharashtra 431001",
+    "allRightsReserved": "All rights reserved"
+  },
+  "companyName": "Kalash Hardware",
+  "description": "Trusted wholesaler of quality hardware since 2018. Providing excellent products and service to our customers.",
+  "quickLinks": "Quick Links",
+  "home": "Home",
+  "contact": "Contact",
+  "contactInfo": "Contact Info",
+  "address": "Shop 10/11, Anand Plaza, Amarpreet Chowk, Jalna Road, Chhatrapati Sambhaji Nagar, Maharashtra 431001",
+  "phone": "+91 9999 999 999",
+  "email": "info@kalashhardware.com",
+  "copyright": "All rights reserved.",
+  "logo": {
+    "title": "Kalash Hardware",
+    "subtitle": "Established 2018"
+  },
+  "productCard": {
+    "enquire": "Enquire Now",
+    "enquirySubject": "Enquiry about",
+    "enquiryBody": "Hello,\n\nI would like to inquire about {{name}}.\n\nThank you.",
+    "viewFullImage": "View full image"
+  },
+  "productCategory": {
+    "viewProducts": "View Products"
+  },
+  "categories": {
+    "tools": {
+      "name": "Tools",
+      "description": "Hand tools and power tools"
+    },
+    "notFound": "Category not found",
+    "backToAll": "Back to all products",
+    "noProducts": "No products available in this category yet.",
+    "contactUs": "Contact us for more information"
+  },
+  "reviews": {
+    "title": "Customer Feedback",
+    "date": "Reviewed on {{date}}",
+    "rating": "Rated {{count}} stars",
+    "subtitle": "4.7 out of 5 based on 120+ Google reviews"
+  },
+  "about": {
+    "about": "About Us",
+    "title": "About Kalash Hardware",
+    "subtitle": "Your trusted partner for quality hardware solutions since 2018",
+    "storyTitle": "Our Story",
+    "story1": "Founded in 2018, Kalash Hardware started as a small family business...",
+    "story2": "Over the years, we've grown to become one of the region's most trusted...",
+    "story3": "Our commitment to quality, competitive pricing, and exceptional service...",
+    "valuesTitle": "Our Values",
+    "valuesSubtitle": "At Kalash Hardware, our business is built on strong values...",
+    "quality": "Quality",
+    "qualityDesc": "We source only the finest hardware products...",
+    "reliability": "Reliability",
+    "reliabilityDesc": "Count on us for consistent stock and timely deliveries.",
+    "integrity": "Integrity",
+    "integrityDesc": "Honest business practices and transparent pricing.",
+    "service": "Service",
+    "serviceDesc": "Exceptional customer service and expert advice.",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide high-quality hardware solutions that empower..."
+  },
+  "product": {
+    "title": "Our Products",
+    "subtitle": "Explore our wide range of high-quality hardware products for all your needs",
+    "searchPlaceholder": "Search products...",
+    "noCategories": "No categories found matching your search."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or need assistance? We're here to help!",
+    "get_in_touch": "Get In Touch",
+    "location_title": "Our Location",
+    "location": "Shop 10/11, Anand Plaza, Amarpreet Chowk, Jalna Road, Chhatrapati Sambhaji Nagar, Maharashtra 431001",
+    "phone_title": "Phone",
+    "phone_number": "+91 9999 999 999",
+    "email_title": "Email",
+    "email": "info@kalashhardware.com",
+    "business_hours": "Business Hours",
+    "mon_sat": "Monday - Saturday",
+    "sun": "Sunday",
+    "hours_weekday": "10:00 AM - 9:00 PM",
+    "hours_sunday": "10:00 AM - 3:00 PM",
+    "form_title": "Send Us a Message",
+    "form_success": "Your message has been sent successfully. We'll get back to you shortly.",
+    "your_name": "Your Name *",
+    "email_address": "Email Address *",
+    "phone_number_label": "Phone Number",
+    "your_message": "Your Message *",
+    "send_button": "Send Message",
+    "sending": "Sending...",
+    "thank_you": "Thank You!"
+  },
+  "cta": {
+    "title": "Ready to Start Your Project?",
+    "description": "Browse our extensive catalog of hardware products or contact us for personalized recommendations and wholesale pricing.",
+    "browseProducts": "Browse Products",
+    "contactUs": "Contact Us"
+  },
+  "heroTitle": "Contact Us",
+  "heroSubtitle": "Have questions or need assistance? We're here to help!",
+  "getInTouch": "Get In Touch",
+  "ourLocation": "Our Location",
+  "phone": "Phone",
+  "email": "Email",
+  "businessHours": "Business Hours",
+  "mondaySaturday": "Monday - Saturday",
+  "sunday": "Sunday",
+  "sendMessage": "Send Us a Message",
+  "thankYouTitle": "Thank You!",
+  "thankYouMessage": "Your message has been sent successfully. We'll get back to you shortly.",
+  "yourName": "Your Name *",
+  "emailAddress": "Email Address *",
+  "phoneNumber": "Phone Number",
+  "yourMessage": "Your Message *",
+  "sending": "Sending...",
+  "send": "Send Message",
+  "errors": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Email is invalid",
+    "messageRequired": "Message is required"
+  }
+}
