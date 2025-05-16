@@ -370,7 +370,7 @@ const ContactPage = () => {
                       <h3 className="font-semibold text-gray-800 mb-1">{t('phone')}</h3>
                       <p className="text-gray-600">
                         <a href="tel:+919999999999" className="hover:text-amber-600 transition-colors">
-                          {t('phoneNumber')}
+                          {t('contact.phone_number_label')}
                         </a>
                       </p>
                     </div>
@@ -382,7 +382,7 @@ const ContactPage = () => {
                       <h3 className="font-semibold text-gray-800 mb-1">{t('email')}</h3>
                       <p className="text-gray-600">
                         <a href="mailto:info@kalashhardware.com" className="hover:text-amber-600 transition-colors">
-                          {t('emailAddress')}
+                          {t('contact.email_address')}
                         </a>
                       </p>
                     </div>

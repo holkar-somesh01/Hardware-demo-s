@@ -124,8 +124,8 @@
     "form_title": "Send Us a Message",
     "form_success": "Your message has been sent successfully. We'll get back to you shortly.",
     "your_name": "Your Name *",
-    "email_address": "Email Address *",
-    "phone_number_label": "Phone Number",
+    "email_address": "kalashhardware@gmail.com",
+    "phone_number_label": "+91 7947142805",
     "your_message": "Your Message *",
     "send_button": "Send Message",
     "sending": "Sending...",
@@ -160,5 +160,19 @@
     "emailRequired": "Email is required",
     "emailInvalid": "Email is invalid",
     "messageRequired": "Message is required"
+  },
+  "services": {
+    "title": "Quality Products and Services",
+    "description": "At Kalash Hardware, we take pride in delivering excellent customer service along with premium hardware solutions. Our commitment to quality and reliability makes us a trusted partner among contractors, builders, and homeowners.",
+    "sameDayDelivery": {
+      "title": "Same-Day Delivery Available",
+      "description": "For orders placed by 12 PM in Chhatrapati Sambhaji Nagar."
+    },
+    "extendedHours": {
+      "title": "Extended Business Hours",
+      "description": "We’re open every day, including Sundays, for our customers."
+    },
+    "learnMore": "Learn more about us",
+    "imageAlt": "Interior view of a hardware store"
   }
 }

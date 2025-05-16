@@ -21,13 +21,13 @@ const Header = () => {
 
   return (
     <header
-      className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'
+      className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4 text-white'
         }`}
     >
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <NavLink to="/">
-            <Logo />
+            <Logo scrolled={scrolled} />
           </NavLink>
 
           {/* Desktop Navigation */}
@@ -84,8 +84,7 @@ const Header = () => {
             <LanguageSwitcher />
             <button
               className="text-gray-800"
-              onClick={() => setIsOpen(!isOpen)}
-            >
+              onClick={() => setIsOpen(!isOpen)}>
               {isOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
           </div>
