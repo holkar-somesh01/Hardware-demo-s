@@ -178,6 +178,7 @@ import ProductCategory from '../components/ProductCategory';
 import { categories } from '../data/products';
 import ReviewCard from '../components/ReviewCard';
 import { reviews } from '../data/reviews';
+import { FaInstagram, FaPhoneAlt, FaWhatsapp } from 'react-icons/fa';
 
 const HomePage = () => {
   const { t } = useTranslation();
@@ -336,6 +337,17 @@ const HomePage = () => {
           </div>
         </div>
       </section>
+      <div className="fixed bottom-5 right-5 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 z-50">
+        <a href="tel:+917972255278" className="bg-green-500 p-3 rounded-full shadow-lg text-white hover:bg-green-600 transition-all">
+          <FaPhoneAlt size={20} />
+        </a>
+        <a href="https://wa.me/917972255278" target="_blank" rel="noopener noreferrer" className="bg-green-600 p-3 rounded-full shadow-lg text-white hover:bg-green-700 transition-all">
+          <FaWhatsapp size={20} />
+        </a>
+        <a href="https://www.instagram.com/kalashhardware" target="_blank" rel="noopener noreferrer" className="bg-pink-500 p-3 rounded-full shadow-lg text-white hover:bg-pink-600 transition-all">
+          <FaInstagram size={20} />
+        </a>
+      </div>
     </div>
   );
 };

@@ -26,7 +26,7 @@ const ScrollToTop = () => {
 
   return (
     <button
-      className={`fixed bottom-4 right-4 bg-amber-600 text-white p-3 rounded-full shadow-lg transition-opacity duration-300 hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2 ${isVisible ? 'opacity-100' : 'opacity-0'
+      className={`fixed bottom-4 left-4 bg-amber-600 text-white p-3 rounded-full shadow-lg transition-opacity duration-300 hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2 ${isVisible ? 'opacity-100' : 'opacity-0'
         }`}
       onClick={scrollToTop}
       aria-label="Scroll to top"
