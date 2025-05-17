@@ -178,14 +178,12 @@ import ProductCategory from '../components/ProductCategory';
 import { categories } from '../data/products';
 import ReviewCard from '../components/ReviewCard';
 import { reviews } from '../data/reviews';
-import { FaInstagram, FaPhoneAlt, FaWhatsapp } from 'react-icons/fa';
 
 const HomePage = () => {
   const { t } = useTranslation();
 
   return (
     <div>
-      {/* Hero Section */}
       <section
         className="relative h-screen bg-cover bg-center flex items-center"
         style={{ backgroundImage: "url('https://images.pexels.com/photos/1029243/pexels-photo-1029243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')" }}
