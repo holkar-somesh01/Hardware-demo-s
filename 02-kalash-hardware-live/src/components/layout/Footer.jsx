@@ -9,7 +9,6 @@ function Footer() {
     <footer className="bg-neutral-800 text-white pt-12 pb-6">
       <div className="container mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          {/* Company Info */}
           <div>
             <h3 className="text-xl font-bold mb-4 text-white">
               <span className="text-accent-500">Kalash </span>Hardware
@@ -38,8 +37,6 @@ function Footer() {
               </a>
             </div>
           </div>
-
-          {/* Quick Links */}
           <div>
             <h3 className="text-lg font-bold mb-4 text-white">{t('footer.quickLinks')}</h3>
             <ul className="space-y-2">
