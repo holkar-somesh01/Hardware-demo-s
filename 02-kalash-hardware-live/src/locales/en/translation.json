@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Loading...",
+    "viewDetails": "View Details"
+  },
+  "home": {
+    "title": "Professional Hardware Store",
+    "metaDescription": "Kalsh Hardware - Your one-stop shop for all hardware tools and equipment. Quality products, expert advice, and excellent customer service.",
+    "hero": {
+      "title": "Quality Tools for Every Project",
+      "subtitle": "From professional-grade power tools to everyday hardware essentials, we have everything you need to get the job done right.",
+      "shopNow": "Shop Now",
+      "learnMore": "Learn More"
+    },
+    "featuredProducts": {
+      "title": "Featured Products",
+      "subtitle": "Discover our selection of high-quality tools and equipment for your next project.",
+      "viewAll": "View All Products"
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "subtitle": "Find exactly what you need by browsing our product categories.",
+      "browse": "Browse Category"
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "subtitle": "Don't just take our word for it - hear from our satisfied customers."
+    },
+    "cta": {
+      "title": "Need Expert Advice?",
+      "subtitle": "Our team of professionals is here to help you with any questions or concerns.",
+      "button": "Contact Us"
+    }
+  },
+  "categories": {
+    "handTools": "Hand Tools",
+    "powerTools": "Power Tools",
+    "electricalSupplies": "Electrical Supplies",
+    "plumbing": "Plumbing"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Browse our extensive collection of high-quality tools and equipment.",
+    "metaDescription": "Explore Kalsh Hardware's wide range of hardware products, tools, and equipment for all your project needs.",
+    "sale": "Sale",
+    "showing": "Showing",
+    "items": "items",
+    "sortBy": "Sort by",
+    "priceLowToHigh": "Price: Low to High",
+    "priceHighToLow": "Price: High to Low",
+    "nameAZ": "Name: A-Z",
+    "noResults": "No products found",
+    "tryDifferentFilters": "Try different filters or browse all products."
+  },
+  "filters": {
+    "title": "Filters",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "priceRange": "Price Range",
+    "availability": "Availability",
+    "all": "All Products",
+    "inStock": "In Stock Only",
+    "reset": "Reset Filters"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn more about Kalsh Hardware and our commitment to quality.",
+    "metaDescription": "Learn about Kalsh Hardware's history, mission, and commitment to providing high-quality hardware products and exceptional customer service.",
+    "ourStory": {
+      "title": "Our Story",
+      "p1": "Kalsh Hardware was founded in 1995 with a simple mission: to provide high-quality hardware tools and exceptional customer service. What began as a small family business has grown into a trusted name in the industry.",
+      "p2": "With over 25 years of experience, we've built a reputation for reliability, expertise, and a commitment to customer satisfaction. Our team of experts is passionate about helping customers find the right tools for their projects.",
+      "p3": "Today, we continue to expand our product range and services, while staying true to our core values of quality, integrity, and customer focus."
+    },
+    "missionVision": {
+      "title": "Our Mission & Vision",
+      "subtitle": "Driven by purpose, guided by our vision",
+      "missionTitle": "Our Mission",
+      "missionText": "To provide high-quality hardware tools and equipment, exceptional customer service, and expert advice to help our customers successfully complete their projects.",
+      "visionTitle": "Our Vision",
+      "visionText": "To be the most trusted and preferred hardware supplier, recognized for our product quality, expertise, and customer-focused approach."
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "The people behind Kalsh Hardware's success",
+      "member1": {
+        "name": "Rajesh Sharma",
+        "position": "Founder & CEO",
+        "bio": "Rajesh founded Kalsh Hardware in 1995 and has over 30 years of experience in the hardware industry. His vision and leadership have been instrumental in the company's growth."
+      },
+      "member2": {
+        "name": "Priya Patel",
+        "position": "Operations Manager",
+        "bio": "Priya oversees our day-to-day operations, ensuring that we maintain the highest standards of quality and service."
+      },
+      "member3": {
+        "name": "Amit Verma",
+        "position": "Product Specialist",
+        "bio": "With extensive knowledge of tools and equipment, Amit helps customers find the perfect solutions for their projects."
+      }
+    },
+    "cta": {
+      "title": "Join the Kalsh Hardware Family",
+      "subtitle": "Have questions about our products or services? We're here to help!",
+      "button": "Get in Touch"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Get in touch with us for any inquiries.",
+    "metaDescription": "Contact Kalsh Hardware for product inquiries, customer support, or visit our store location. We're here to assist you with all your hardware needs.",
+    "contactInfo": {
+      "title": "Contact Information",
+      "addressTitle": "Address",
+      "phoneTitle": "Phone",
+      "emailTitle": "Email",
+      "hoursTitle": "Business Hours",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "location": {
+      "title": "Our Location"
+    },
+    "formSuccess": "Thank you for your message! We'll get back to you soon."
+  },
+  "testimonials": {
+    "quote1": "Kalsh Hardware has been my go-to hardware store for years. Their product quality is unmatched, and the staff is always helpful and knowledgeable.",
+    "author1": "Rahul Desai",
+    "role1": "Contractor",
+    "quote2": "I was impressed by the wide range of products and competitive pricing. The online ordering process was smooth, and delivery was prompt.",
+    "author2": "Ananya Singh",
+    "role2": "DIY Enthusiast",
+    "quote3": "The team at Kalsh Hardware provided excellent advice for my home renovation project. Their expertise saved me time and money.",
+    "author3": "Vikram Mehta",
+    "role3": "Homeowner"
+  },
+  "footer": {
+    "tagline": "Quality tools and equipment for professionals and DIY enthusiasts.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "contactUs": "Contact Us",
+    "copyright": "All rights reserved."
+  }
+}
