@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import background from '../../assets/Shop-Photos/background.webp'
 
 function HeroSection() {
   const { t } = useTranslation();
@@ -10,7 +11,8 @@ function HeroSection() {
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-primary-900 to-primary-700 opacity-90"></div>
         <img
-          src="https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          // src="https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          src={background}
           alt="Hardware Tools Background"
           className="absolute inset-0 h-full w-full object-cover"
         />

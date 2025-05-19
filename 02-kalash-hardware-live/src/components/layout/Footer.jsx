@@ -12,7 +12,7 @@ function Footer() {
           {/* Company Info */}
           <div>
             <h3 className="text-xl font-bold mb-4 text-white">
-              <span className="text-accent-500">Tool</span>Master
+              <span className="text-accent-500">Kalash </span>Hardware
             </h3>
             <p className="text-neutral-300 mb-4">
               {t('footer.tagline')}
@@ -126,8 +126,8 @@ function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-neutral-700 mt-10 pt-6 text-center text-neutral-400">
-          <p>&copy; {currentYear} kalsh Hardware. {t('footer.copyright')}</p>
+        <div className="border-t border-neutral-700 mt-5 mb-0 pt-4  text-center text-neutral-400">
+          <span>&copy; {currentYear} kalash Hardware. {t('footer.copyright')}</span>
         </div>
       </div>
     </footer>

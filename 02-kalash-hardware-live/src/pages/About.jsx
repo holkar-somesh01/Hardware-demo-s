@@ -156,7 +156,7 @@ function About() {
       {/* Call to Action */}
       <section className="bg-primary-800 text-white py-16">
         <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">{t('about.cta.title')}</h2>
+          <h2 className="text-3xl font-bold text-white mb-4">{t('about.cta.title')}</h2>
           <p className="text-xl text-white/80 max-w-2xl mx-auto mb-8">{t('about.cta.subtitle')}</p>
           <a href="/contact" className="btn bg-accent-500 hover:bg-accent-600 text-white">
             {t('about.cta.button')}
