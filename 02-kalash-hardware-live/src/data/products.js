@@ -12,7 +12,7 @@ const products = [
       mr: "20V MAX लिथियम-आयन कॉर्डलेस ड्रिल, 2-स्पीड ट्रान्समिशन आणि LED लाइटसह. 2 बॅटरी, चार्जर आणि कॅरिंग केस समाविष्ट."
     },
     price: 6999,
-    image: "https://images.pexels.com/photos/1215176/pexels-photo-1215176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://extoltools.com/wp-content/uploads/2023/05/8891805.jpg",
     category: "powerTools",
     inStock: true,
     sale: false
