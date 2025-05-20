@@ -46,7 +46,7 @@ function FeaturedProducts() {
                 <p className="text-neutral-600 mb-3 line-clamp-2">{product.description[currentLanguage]}</p>
 
                 <div className="flex justify-between items-center">
-                  <span className="text-xl font-bold text-primary-800">₹{product.price.toLocaleString()}</span>
+                  {/* <span className="text-xl font-bold text-primary-800">₹{product.price.toLocaleString()}</span> */}
                   <Link
                     to={`/products`}
                     className="text-accent-500 ml-6 hover:text-accent-600 font-medium flex items-center"
